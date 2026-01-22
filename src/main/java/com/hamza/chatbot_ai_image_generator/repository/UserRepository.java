@@ -1,6 +1,6 @@
 package main.java.com.hamza.chatbot_ai_image_generator.repository;
 
-import com.hamza.chatbot_ai_image_generator.entity.User;
+import main.java.com.hamza.chatbot_ai_image_generator.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

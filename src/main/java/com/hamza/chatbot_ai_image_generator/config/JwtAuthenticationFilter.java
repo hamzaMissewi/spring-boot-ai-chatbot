@@ -1,6 +1,6 @@
 package main.java.com.hamza.chatbot_ai_image_generator.config;
 
-import com.hamza.chatbot_ai_image_generator.service.JwtService;
+import main.java.com.hamza.chatbot_ai_image_generator.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,7 +1,7 @@
 package main.java.com.hamza.chatbot_ai_image_generator.controller;
 
-import com.hamza.chatbot_ai_image_generator.service.ImageGenerationService;
-import com.hamza.chatbot_ai_image_generator.service.PDFGenerationService;
+import main.java.com.hamza.chatbot_ai_image_generator.service.ImageGenerationService;
+import main.java.com.hamza.chatbot_ai_image_generator.service.PDFGenerationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.core.io.Resource;
